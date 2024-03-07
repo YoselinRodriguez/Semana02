@@ -1,0 +1,44 @@
+Ventas Offline
+
+Detalle de ventas
+
+Ventas Online
+
+Listado
+Descarga
+Detalle de Venta
+Enviar 
+Captura venta
+
+Controversias
+
+Añadir evidencia
+
+Mi Comercio
+Mi Perfil
+
+Desarrollo
+API Keys
+API Logs
+RSA Keys
+Webhooks
+
+LINKS de cobros
+Listado
+Filtros 
+Compartir
+activación/Desactivación
+Descarga
+Crear link
+Editar Link
+
+
+
+Login
+Contactos (Mi comercio)
+Controversias
+Mi perfil
+
+
+
+zandbox solo son comercios que tenga el producto CulqiOnlin
